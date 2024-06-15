@@ -22,9 +22,9 @@ A brief description of your second project. [Learn more](https://github.com/Phys
 
 
 ## Skills
-- **Physics
-- **Geosciences
-- **Petroleum Geology
+- **Physics**
+- **Geosciences**
+- **Petroleum Geology**
 - **Programming Languages:** Python, R, MATLAB, C++
 - **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-Learn
 - **Data Visualization:** Matplotlib, Seaborn, Plotly

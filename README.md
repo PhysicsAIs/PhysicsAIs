@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-Welcome to my GitHub! I'm passionate about leveraging physics and AI to solve real-world problems. Here's a bit about me and some of the projects I'm working on.
+Welcome to my GitHub! I'm passionate about leveraging physics and AI to solve geosciences real-world problems. Here's a bit about me and some of the projects I'm working on.
 
 ## About Me
 
-- 🌱 I’m currently learning more about advanced machine learning techniques and their applications in physics.
-- 👯 I’m looking to collaborate on open-source projects related to data science, machine learning, and physics.
-- 💬 Ask me about anything related to physics, machine learning, or scientific computing.
+- 🌱 I’m currently working in machine learning techniques and their applications in physics especially in geosciences world.
+- 👯 I’m looking to collaborate on open-source projects related to data science, machine learning, geosciences and physics.
+- 💬 Ask me about anything related to physics, geosciences, machine learning, or scientific computing.
 - 📫 How to reach me: [Email](mailto:aigeopython@outlook.com)
 ] | [LinkedIn](https://www.linkedin.com/in/AIGeoPython) | [Twitter](https://twitter.com/AIGeoPython)
 

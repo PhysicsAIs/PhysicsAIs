@@ -7,14 +7,15 @@ Welcome to my GitHub! I'm passionate about leveraging physics and AI to solve re
 - 🌱 I’m currently learning more about advanced machine learning techniques and their applications in physics.
 - 👯 I’m looking to collaborate on open-source projects related to data science, machine learning, and physics.
 - 💬 Ask me about anything related to physics, machine learning, or scientific computing.
-- 📫 How to reach me: [Your Email] | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
+- 📫 How to reach me: [Email](mailto:aigeopython@outlook.com)
+] | [LinkedIn](https://www.linkedin.com/in/AIGeoPython) | [Twitter](https://twitter.com/AIGeoPython)
 
 ## Projects
 
 ### Physics and Machine Learning: Bridging the Gap
 The integration of physics and machine learning (ML) holds transformative potential for enhancing our understanding of complex physical phenomena and addressing real-world challenges. By leveraging large datasets and sophisticated algorithms, ML can uncover hidden relationships within physical systems, optimize experimental designs, and predict outcomes with unprecedented accuracy. [Learn more](https://github.com/PhysicsAIs/Physics-Machine-Learning).
 
-### [Project Physics-AI]
+### [Project Physics-AI in Oil and Gas Industry]
 A brief description of your second project. [Learn more](https://github.com/PhysicsAIs/Physics-AI).
 
 ### [Project Physics-Machine-Learning]

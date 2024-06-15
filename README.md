@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm passionate about leveraging physics and AI to solve real-world problems. Here's a bit about me and some of the projects I'm working on.
+Welcome to my GitHub! I'm passionate about leveraging physics and AI to solve real-world problems. Here's a bit about me and some of the projects I'm working on.
 
 ## About Me
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging physics and AI to 
 ## Projects
 
 ### Physics and Machine Learning: Bridging the Gap
-The integration of physics and machine learning (ML) holds transformative potential for enhancing our understanding of complex physical phenomena and addressing real-world challenges. By leveraging large datasets and sophisticated algorithms, ML can uncover hidden relationships within physical systems, optimize experimental designs, and predict outcomes with unprecedented accuracy. [Learn more](https://github.com/yourusername/physics-ml).
+The integration of physics and machine learning (ML) holds transformative potential for enhancing our understanding of complex physical phenomena and addressing real-world challenges. By leveraging large datasets and sophisticated algorithms, ML can uncover hidden relationships within physical systems, optimize experimental designs, and predict outcomes with unprecedented accuracy. [Learn more](https://github.com/PhysicsAIs/Physics-Machine-Learning).
 
 ### [Project Physics-AI]
 A brief description of your second project. [Learn more](https://github.com/PhysicsAIs/Physics-AI).
